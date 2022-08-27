@@ -8,8 +8,4 @@ sdasd
 sdasd
 1111sdasd
 1112sdasd
-
-
-master
-
-got-fix
+push
